@@ -1,0 +1,21 @@
+{
+  "name": "subtle-green",
+  "displayName": "Subtle Green",
+  "description": "A simple dark theme with green highlights. ",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Subtle Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Subtle Green-color-theme.json"
+      }
+    ]
+  }
+}
